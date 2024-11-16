@@ -1,7 +1,7 @@
 # HimanshuDekate
 
 # 💫 About Me:
-I am a Software Engineer and have a strong technical<br>background in Python and SQL, and have worked on multiple<br>projects with a variety of technologies.<br>My skills include excellent problem-solving abilities, excellent<br>communication and interpersonal skills, strong analytical<br>abilities, and an ability to quickly learn new technologies.
+I am a Software Engineer and have a strong technical background in Python and SQL, and have worked on multiple projects with a variety of technologies. My skills include excellent problem-solving abilities, excellent communication and interpersonal skills, strong analytical abilities, and an ability to quickly learn new technologies.
 
 
 ## 🌐 Socials:
